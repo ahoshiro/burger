@@ -6,7 +6,9 @@ var router = express.Router();
 var burger = require("../models/burger.js");
 
 // Create all our routes and set up logic within those routes where required.
-// Redirect empty route to /index
+
+//If empty router it will redirect it to /Index instead of typing it. 
+
 router.get('/', function (req, res) {
     res.redirect('/index');
   });

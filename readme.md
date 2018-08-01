@@ -19,5 +19,5 @@ To run the server.js interface please follow the steps below:
 ### Operation
 
 Home page:
-![Burger Page](https://github.com/ahoshiro/FriendFinder/blob/master/app/images/Home%20page.jpg)
+![Burger Page](https://github.com/ahoshiro/burger/blob/master/public/assets/img/Burger_Yummy.png)
 
