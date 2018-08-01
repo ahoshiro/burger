@@ -1,0 +1,25 @@
+body {
+    background: url(https://cdn.wallpapersafari.com/89/88/M2wx07.jpg);
+    color: yellow;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    padding: 5px;
+    margin: 5px;
+    background-color: red;
+  }
+  
+  .form-group {
+    padding: 15px;
+    margin: 15px;
+  }
+
+  #burgerImage {
+    width: 200px;
+    height: 200px;
+    align-items: center;
+  }
